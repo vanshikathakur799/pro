@@ -8,10 +8,10 @@ AFRAME.registerComponent('comics-posters', {
     const postersRef = [
       {id: 'captainAmerica', url: 'assets/Captain-America.jpg'},
       {id: 'spiderMan', url: './assets/Spider-Man.jpg'},
-      {id: 'ironMan', url: './assets/Iron-Man.png'},
+      {id: 'ironMan', url: './assets/Iron-Man.jpg'},
       {id: 'batMan',url: './assets/Bat-Man.jpg'},
       {id: 'superMan', url: './assets/Super-Man.jpg'},
-      {id: 'venom', url: './assets/Venom.png'}
+      {id: 'venom', url: './assets/Venom.jpg'}
     ]
     let prevoiusXPosition = -85
 
